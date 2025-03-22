@@ -1,20 +1,20 @@
-<!-- Cybersecurity GitHub Profile README -->
+<!-- Cybersecurity Themed GitHub Profile README -->
 
-<img src="https://github.com/RifahReslin/yourrepo/blob/main/banner.png" alt="Cybersecurity Banner" width="100%">
+[<img src="https://github.com/RifahReslin/RifahReslin-portfolio/blob/main/Rifah%20Reslin%20M.L.png" alt="Cybersecurity Banner" width="100%">](https://github.com/RifahReslin/RifahReslin-portfolio/blob/main/Rifah%20Reslin%20M.L.png?raw=true)
 
-# **👋 Hi, I'm [Rifah Reslin M.L]**
-
+# **👋 Hi, I'm Rifah Reslin M.L!**  
 🚀 **Cybersecurity Enthusiast | Ethical Hacker | Researcher**  
 🔒 Passionate about **network security, penetration testing, and malware analysis**  
 
-- 📚 Currently studying **Cybersecurity at Amity University Bengaluru**  
+## **📚 About Me**  
+- 🎓 Currently studying **MSc Cybersecurity at Amity University Bengaluru**  
 - 🌱 Learning **Network Security, Secure Coding, and Ethical Hacking**  
 - 🔬 Researching **Cyber-Secure Power Systems**  
 - 🎯 Practicing on **TryHackMe, HackTheBox, and CTF Challenges**  
 
 ---
 
-## **🛠 Skills & Technologies**
+## **🛠 Skills & Technologies**  
 💻 **Programming:** Python, Bash, C  
 🛡️ **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite  
 🔗 **Networking:** TCP/IP, VPN, Firewalls  
@@ -23,34 +23,35 @@
 ---
 
 ## **📌 Cybersecurity Projects**
-### 🛡️ [Network Packet Analyzer](https://github.com/yourusername/network-packet-analyzer)
+### 🛡️ [Network Packet Analyzer](https://github.com/RifahReslin/network-packet-analyzer)
 - Captures and analyzes real-time network packets  
 - Uses **Scapy & Wireshark** for traffic monitoring  
 
-### 🔍 [Vulnerability Scanner](https://github.com/yourusername/vulnerability-scanner)
+### 🔍 [Vulnerability Scanner](https://github.com/RifahReslin/vulnerability-scanner)
 - Scans open ports & detects vulnerabilities  
 - Uses **Nmap & Python** for automated scanning  
 
-### 📜 [CTF Writeups](https://github.com/yourusername/ctf-writeups)
+### 📜 [CTF Writeups](https://github.com/RifahReslin/ctf-writeups)
 - **TryHackMe, HackTheBox & NASSCOM Cybersecurity Challenges**  
 - Step-by-step explanations of exploitations  
 
 ---
 
-## **📊 GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+## **📊 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifahReslin&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RifahReslin&layout=compact&theme=tokyonight)  
 
 ---
 
-## **🏆 Certifications & Achievements**
-- 🏅 **TryHackMe Top 5% Cybersecurity Learner**  
-- 📜 **OSCP Aspirant**  
-- 🎯 **NASSCOM Cybersecurity Hackathon Participant**  
+## **🏆 Certifications & Achievements**  
+- 🏅 **Data Science from AMEGRADE**  
+- 🏅 **TryHackMe Top 5% Cybersecurity Learner**
 
 ---
 
-## **🔗 Find Me Online**
-📬 **LinkedIn:** [yourlinkedin](https://linkedin.com/in/yourusername)  
-🎯 **TryHackMe:** [yourprofile](https://tryhackme.com/p/yourusername)  
-📑 **Cybersecurity Blog:** [Medium/Dev.to](https://medium.com/@yourusername)  
+## **🔗 Find Me Online**  
+📬 **LinkedIn:** [linkedin.com/in/rifah-reslin](https://www.linkedin.com/in/rifah-reslin)  
+🎯 **TryHackMe:** [tryhackme.com/p/RifahReslin](https://tryhackme.com/p/RifahReslin)  
+
+
+
